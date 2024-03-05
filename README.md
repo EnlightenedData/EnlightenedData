@@ -1,12 +1,11 @@
-Hi 👋, 
-We are developers and data analysts @EnlightenedData.
-We provide data consulting services that help you make informed decisions. 
-👀 Our mission is to enlighten your data, hence the name. In case you have no data, we can help you collect them by designing and conducting surveys or havesting from Open Data sources.
-We specialise in survey design, choice modelling, statistical modelling, spatial analysis, GIS technology, and data visualisation.
-💞️ We are looking to collaborate on research and consulting projects, particularly those with research and data analysis components. 
-We have rich experience working with industry and governments, domestically and internationally. Locally, EnlightenedData is a member of the modelling panel of TfNSW, NSW DPC, IPART, and Austroads. We have partnered with big consutling firms such as Deloitte Access Economics, CEPA, and Stantec.
+Hello there! 👋 We're the friendly team behind EnlightenedData, your go-to pals for everything data! Our passion? Turning your data into dazzling insights that guide your decisions. 🌟 Think of us as your data whisperers.
 
-📫 How to reach us enlightened.data@gmail.com
+Got data? Great! No data? No worries! We're pros at gathering the info you need, from crafting perfect surveys to tapping into the treasure trove of Open Data. Our toolbox is brimming with goodies likeoptimal survey designing, choice and statistical modelling, exploring data across spaces with GIS, and making data pretty (and understandable) with top-notch visualisation. 🛠️✨
+
+We're on a mission to make data less daunting and more insightful. Whether it's research, consulting, or a mix of both, we're all in. Our experience spans industries and borders, working hand-in-hand with businesses and governments alike. On our home turf, we're proud contributors to panels and projects with TfNSW, NSW DPC, IPART, and Austroads, not to mention our collaborations with big names like Deloitte Access Economics, CEPA, and Stantec.
+
+Ready to make your data work wonders? Let's chat! 💬💖 enlightened.data@gmail.com
+We're excited to partner on projects that spark curiosity and drive insights. Welcome to EnlightenedData—where your data shines bright!
 
 <!---
 EnlightenedData/EnlightenedData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
